@@ -54,7 +54,7 @@ a) Đối với hệ điều hành Android
 
 # G. Liên hệ
 ### Việt - Nga TV (Văn phòng đại diện Việt - Nga TV Khu vực Miền Nam)
-Địa chỉ: Ấp Thanh Hoá, Xã Hố Nai 3, Thành Phố Biên Hoà, Đồng Nai<br />
+Địa chỉ: Ấp Thanh Hoá, Xã Hố Nai 3, Huyện	Trảng Bom, Đồng Nai<br />
 ### Tiếp nhận thông tin
 Số điện thoại: 0385876701<br />
 Email: teohdtv@mail.ru<br />
