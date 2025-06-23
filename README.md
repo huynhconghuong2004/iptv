@@ -49,6 +49,9 @@ a) Đối với hệ điều hành Android
 - Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn biểu tượng IPTV, nhấn biểu tượng dấu "+" để copy, dán vào link [tại đây](https://vietngatv.short.gy/vietngatv) và nhấn Lưu. Sau đó bạn vào Hà Nội IPTV.m3u và chọn kênh mà bạn muốn xem cũng như TV của bạn đang sử dụng để tiến hành kết nối và theo dõi được kênh mà bạn đang lựa chọn.<br />
 ## LƯU Ý: Tất cả các smart TV trên hệ điều hành này đều không hỗ trợ một số kênh truyền hình của VTVCab, InTheBOX.TV, SCTV,.... nên quý khán giả chỉ có thể thực hiện thao tác chia sẻ màn hình smartphone của bạn sang smart TV để thay thế cho việc chia sẻ IPTV và theo dõi trực tiếp.
 
+# E. Những nội dung khác
+- [Văn bản và Chính sách dành cho người dùng](https://github.com/huynhconghuong2004/iptv/blob/main/V%C4%83n%20b%E1%BA%A3n%20%26%20Ch%C3%ADnh%20s%C3%A1ch%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ch%C3%ADnh%20s%C3%A1ch%20v%E1%BB%81%20vi%E1%BB%87c%20%C4%91%E1%BB%93ng%20%C3%BD%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20c%E1%BB%A7a%20Vi%C3%AA%CC%A3t%20-%20Nga%20TV.md): Để tăng tính răn đe, người dùng phải đọc kỹ và tuân thủ các chính sách của Hà Nội IPTV.<br />
+
 # G. Liên hệ
 ### Việt - Nga TV (Văn phòng Hà Nội IPTV Khu vực Miền Nam)
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
