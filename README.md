@@ -9,8 +9,6 @@ Dịch vụ truyền hình số thế hệ mới - Việt - Nga TV bắt đầu
 Việt - Nga TV hiện đang có gần 600 kênh truyền hình trong nước & quốc tế đặc sắc và hơn 40 kênh phát thanh thiết yếu dành cho quý khán giả trong và ngoài nước. Trong đó có hơn 150 kênh truyền hình trong nước đặc sắc với tiêu chuẩn HD và hơn 30 kênh truyền hình quốc tế trên các lĩnh vực: Phim truyện, Giải trí, Khoa học - Giáo dục, Thiếu nhi,.... sẽ mang lại cảm giác thích thú khi được chiêm ngưỡng những không gian giải trí đặc sắc ngay trên màn ảnh nhỏ.<br />
 
 # C. Làm quen với dịch vụ
-Dịch vụ trên đang áp dụng trọn vẹn hai gói bao gồm:<br />
-## I. [Gói chính thức](https://vietngatv.short.gy/vietngatv)
 Hơn 600 kênh truyền hình trên các lĩnh vực khác nhau.<br />
 - Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua.<br />
 - Đăng tải và phát sóng liên tục những hình ảnh về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ kinh nghiệm của các thành phố trên cả nước.<br />
