@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptvx.one/epg/epg.xml.gz,https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_IN.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_FR.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://vietngatv.short.gy/playlist.m3u
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 (SD)
-https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 (HD)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
@@ -205,13 +203,9 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
 http://luizkun.duckdns.org:63213/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV | Cục Truyền thông CAND
-https://ott1.nethubtv.vn/live/antv/playlist.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD | Cục Truyền thông CAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN | Trung tâm PTTH Quân Đội
-https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD | Trung tâm PTTH Quân Đội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -316,11 +310,10 @@ https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w361616628_b3
 https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/9Xvkkm3.png",BHT TV | TH Báo Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/bVWyWC7.png",HueTV | TH Thành Phố Huế
+#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/bVWyWC7.png",HueTV HD | TH Thành Phố Huế
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | Báo Khánh Hòa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 tvg-id="kontum" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/PKyIRIJ.png",KRT HD | TTTT Tỉnh Kon Tum
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | Báo & TH Nghệ An
@@ -328,8 +321,7 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 #EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | Báo & TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1402655020.m3u8
 #EXTINF:-1 tvg-id="phuyen" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DJsuiHq.png",PTP HD | TH Phú Yên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist_b2500000.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="quangbinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/JCFsITk.png",QBTV | Báo & TH Quảng Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
