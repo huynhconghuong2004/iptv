@@ -1,9 +1,9 @@
-Hà Nội IPTV xin kính chào quý khách! Hiện nay, chúng tôi đang có gói cơ bản áp dụng theo hình thức công khai từ GitHub của chúng tôi (Bao gồm: [Việt - Nga TV](https://vietngatv.short.gy/vietngatv).
+Việt - Nga TV xin kính chào quý khách! Hiện nay, chúng tôi đang có gói cơ bản áp dụng theo hình thức công khai từ GitHub của chúng tôi (Bao gồm: [Việt - Nga TV](https://vietngatv.short.gy/vietngatv).
 =======
 Tròn 5 năm ra mắt (2020 - 2025), quý khách đã có một khoảng thời gian dài để đồng hành cùng chúng tôi. Do tín hiệu của các kênh truyền hình tại Nga & các nước lân cận có sự giới hạn về khu vực mà dịch vụ cung cấp. Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
 
 # A. Việt - Nga TV là gì?
-Dịch vụ truyền hình số thế hệ mới - Việt - Nga TV bắt đầu cho ra mắt công khai kể từ cuối năm 2020 - thời điểm đại dịch Covid-19 của nước ta đang trong giai đoạn phong tỏa/giãn cách, gây ảnh hưởng đến đời sống về kinh tế, văn hóa, xã hội của con người, là nơi để tận hưởng cuộc sống hoàn toàn khác biệt dành cho cả gia đình.<br />
+Dịch vụ truyền hình số thế hệ mới - Việt - Nga TV bắt đầu cho ra mắt công khai kể từ cuối năm 2020 - thời điểm đại dịch Covid-19 của nước ta đang trong giai đoạn dỡ bỏ phong toả/giãn cách tại các tỉnh Duyên Hải Nam Trung Bộ.<br />
 
 # B. Tại sao nên lựa chọn Việt - Nga TV?
 Việt - Nga TV hiện đang có gần 600 kênh truyền hình trong nước & quốc tế đặc sắc và hơn 40 kênh phát thanh thiết yếu dành cho quý khán giả trong và ngoài nước. Trong đó có hơn 150 kênh truyền hình trong nước đặc sắc với tiêu chuẩn HD và hơn 30 kênh truyền hình quốc tế trên các lĩnh vực: Phim truyện, Giải trí, Khoa học - Giáo dục, Thiếu nhi,.... sẽ mang lại cảm giác thích thú khi được chiêm ngưỡng những không gian giải trí đặc sắc ngay trên màn ảnh nhỏ.<br />
