@@ -50,7 +50,7 @@ a) Đối với hệ điều hành Android
 ## LƯU Ý: Tất cả các smart TV trên hệ điều hành này đều không hỗ trợ một số kênh truyền hình của VTVCab, InTheBOX.TV, SCTV,.... nên quý khán giả chỉ có thể thực hiện thao tác chia sẻ màn hình smartphone của bạn sang smart TV để thay thế cho việc chia sẻ IPTV và theo dõi trực tiếp.
 
 # G. Liên hệ
-### Việt - Nga TV (Văn phòng Hà Nội IPTV Khu vực miền nam)
+### Việt - Nga TV (Văn phòng Hà Nội IPTV Khu vực Miền Nam)
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
 ### Tiếp nhận thông tin
 Số điện thoại: 0353356981<br />
