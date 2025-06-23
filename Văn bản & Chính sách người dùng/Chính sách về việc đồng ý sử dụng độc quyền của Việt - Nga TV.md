@@ -6,8 +6,8 @@ Nhằm đảm bảo an toàn cho người dùng trước khi theo dõi các kên
 1. Khi theo dõi các kênh truyền hình có trả phí, nếu người dùng là nhà cung cấp dịch vụ IPTV của bạn muốn đăng tải lại thì phải có sự cho phép từ nhà cung cấp Việt - Nga TV thông qua:<br />
 a) Gửi ý kiến hoặc lý do về việc cho phép đăng tải lại qua địa chỉ:<br />
 - Bản mềm:<br />
-### 1. Trung tâm Chức năng và Quản lý của Việt - Nga TV (Văn phòng Hà Nội IPTV khu vực Miền Nam)<br />
-Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
+### 1. Trung tâm Chức năng và Quản lý của Việt - Nga TV (Văn phòng đại diện Hà Nội IPTV khu vực Miền Nam)<br />
+Địa chỉ: Ấp Thanh Hoá, Xã Hố Nai 3, Thành Phố Biên Hoà, Đồng Nai<br />
 ### 2. Nhà ở Việt - Nga TV
 Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, Phường Thanh Xuân, Hà Nội (Cạnh Khu tập thể)<br />
 - Bản cứng:<br />
