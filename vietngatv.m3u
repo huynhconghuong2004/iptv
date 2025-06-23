@@ -488,12 +488,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ColorsHD" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors
-https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="🤣| Giải trí",Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
-#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="🤣| Giải trí",Colors Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Q3gLfHw.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="429566" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -625,64 +619,6 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/VwQnBqa.png",Setanta Sports 2 Eurasia
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="412170" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/AkdfpVr.png",Sony Entertainment Television
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/zXK5bLFx/Sony-Aath-new.png",Sony Aath 
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://i.postimg.cc/6pC8JZ2J/RnzI34c.png" group-title="🌿| Khám phá",Sony BBC Earth
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-#EXTINF:-1 tvg-id="SonyMarathi.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/JzRnRcCN/Sony-Marathi.png",Sony Marathi
-https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
-#EXTINF:-1 tvg-id="369846" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/LBICKI5.png",Sony Max
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-#EXTINF:-1 tvg-id="SonyMax.uk" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/LBICKI5.png",Sony Max HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/gqUYk6C.png",Sony Max 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/WpCNtcFB/512px-Sony-Sab-new.png",Sony SAB
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/NfS34Qp5/Sony-Pal-logo-new.jpg",Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony PIX
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/hWo7Ba4.png",Sony Sports Ten 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/W96KVqu.png",Sony Sports Ten 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vG19HxD.png",Sony Sports Ten 3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen4.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/dVRMHM4.png",Sony Sports Ten 4
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/40BbQUd.png",Sony Sports Ten 5
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-id="369811" group-title="🌈| Hoạt hình" tvg-logo="https://i.postimg.cc/Y9wxbsWc/Sony-Yay-new.png",Sony Yay!
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-#EXTINF:-1 tvg-id="SonyWah.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/JzXk6QJF/Sony-WAH.png",Sony WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-#EXTINF:-1 tvg-id="369812" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Q8ajPij.png",Star Bharat
-http://103.120.172.74:5000
-#EXTINF:-1 tvg-id="437045" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xC460sj.png",Star Gold
-http://38.96.178.201/live/StarGold/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha
-https://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#EXTINF:-1 tvg-id="435718" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa
-https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
-#EXTINF:-1 tvg-id="435719" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1rRI95N.png",Star Maa Movies
-https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-#EXTINF:-1 tvg-id="StarMovies.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/JhT3k6R.png",Star Movies
-https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-#EXTINF:-1 tvg-id="436999" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xWxNy3L.png",Star Plus
-http://38.96.178.201/live/StarPlus/index.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
-http://103.120.172.74:1060
-#EXTINF:-1 tvg-id="StarSports1.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1
-https://smart.bengaldigital.live/star-sports-1/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2
-https://smart.bengaldigital.live/star-sports-2/index.m3u8
-#EXTINF:-1 tvg-id="StarVijay" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/dZtJHAe.png",Star Vijay
-https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-#EXTINF:-1 tvg-id="411721" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/3MWm9nD.png",Star Vijay Super
-https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
 #EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
 http://luizkun.duckdns.org:63213/rtp/232.84.2.141:10666
 #EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
@@ -754,22 +690,6 @@ https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 http://210.92.207.38:40001
-#EXTINF:-1 tvg-id="ZeeAction.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/DwYR6WPZ/1280px-Zee-Action-2025-svg.png",Zee Action
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
-#EXTINF:-1 tvg-id="404001" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",Zee Bangla
-https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in" group-title="📈| Kinh tế" tvg-logo="https://i.postimg.cc/ZqCV5V3Y/1280px-Zee-Business-2025-svg.png",Zee Business
-https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
-#EXTINF:-1 tvg-id="432797" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
-http://103.120.172.74:4000
-#EXTINF:-1 tvg-id="411812" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",Zee Marathi
-http://103.120.172.74:1040
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.postimg.cc/NGkXjPG2/1280px-Zee-News-2025-svg.png" group-title="📰| Tin tức",Zee News
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="ZeeTamilHD" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/FsWbq0dj/1280px-Zee-Tamil-2025-svg.png",Zee Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-#EXTINF:-1 tvg-id="432800" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/fyfB0hxy/1280px-Zee-TV-2025-svg.png",Zee TV
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
