@@ -11,7 +11,6 @@ Việt - Nga TV hiện đang có gần 600 kênh truyền hình trong nước 
 # C. Làm quen với dịch vụ
 Hơn 600 kênh truyền hình trên các lĩnh vực khác nhau.<br />
 - Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua.<br />
-- Đăng tải và phát sóng liên tục những hình ảnh về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ kinh nghiệm của các thành phố trên cả nước.<br />
 - Ngoài ra còn có các kênh truyền hình thiết yếu (bao gồm của Trung ương và Địa phương) với độ phân giải cao.<br />
 - Độc quyền phát sóng công khai đối với 5 kênh K+.<br />
 - Cập nhật thường xuyên và liên tục, không để khán giả chờ đợi kéo dài.<br />
