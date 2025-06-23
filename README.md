@@ -1,4 +1,4 @@
-Việt - Nga TV xin kính chào quý khách! Hiện nay, chúng tôi đang có gói cơ bản áp dụng theo hình thức công khai từ GitHub của chúng tôi ([Việt - Nga TV](https://vietngatv.short.gy/vietngatv).
+Việt - Nga TV xin kính chào quý khách! Hiện nay, chúng tôi đang có gói cơ bản áp dụng theo hình thức công khai từ GitHub của chúng tôi ([Việt - Nga TV])(https://vietngatv.short.gy/vietngatv).
 =======
 Tròn 5 năm ra mắt (2020 - 2025), quý khách đã có một khoảng thời gian dài để đồng hành cùng chúng tôi. Do tín hiệu của các kênh truyền hình tại Nga & các nước lân cận có sự giới hạn về khu vực mà dịch vụ cung cấp. Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
 
