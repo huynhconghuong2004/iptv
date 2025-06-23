@@ -53,10 +53,10 @@ a) Đối với hệ điều hành Android
 ### Việt - Nga TV (Văn phòng Hà Nội IPTV Khu vực Miền Nam)
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
 ### Tiếp nhận thông tin
-Số điện thoại: 0353356981<br />
+Số điện thoại: 0385876701<br />
 Email: teohdtv@mail.ru<br />
 ### Nhà ở Hà Nội IPTV
 Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, Phường Thanh Xuân, Hà Nội (Cạnh Khu tập thể)<br />
 ### Tiếp nhận thông tin
-Số điện thoại: 0385876701<br />
+Số điện thoại: 0353356981<br />
 Email: hoanghuymanh85@gmail.com<br />
