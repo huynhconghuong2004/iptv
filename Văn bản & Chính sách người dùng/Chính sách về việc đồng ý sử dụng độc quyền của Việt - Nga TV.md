@@ -9,7 +9,7 @@ a) Gửi ý kiến hoặc lý do về việc cho phép đăng tải lại qua đ
 ### 1. Trung tâm Chức năng và Quản lý của Việt - Nga TV (Văn phòng đại diện Hà Nội IPTV khu vực Miền Nam)<br />
 Địa chỉ: Ấp Thanh Hoá, Xã Hố Nai 3, Thành Phố Biên Hoà, Đồng Nai<br />
 ### 2. Nhà ở Việt - Nga TV
-Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, Phường Thanh Xuân, Hà Nội (Cạnh Khu tập thể)<br />
+Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Cạnh Khu tập thể)<br />
 - Bản cứng:<br />
 ### Gửi trực tiếp thông qua tin nhắn SMS hoặc Zalo bằng số điện thoại: 0385876701 hoặc email: teohdtv@mail.ru
 Trong quá trình gửi những ý kiến hoặc lý do trên thì Việt - Nga TV sẽ không nhận được những ý kiến sai sự thật như: nói tục, chửi bậy, xúc phạm danh dự nhân phẩm giữa người dùng và Việt - Nga TV đồng nghĩa với việc sẽ không được phép đăng tải lại nữa. Thông tin của những ý kiến hoặc lý do trên phải để lại họ và tên, địa chỉ, số điện thoại kèm theo nội dung ý kiến hoặc lý do một cách trung thực và khách quan; nếu không có thông tin đó thì Việt - Nga TV cũng sẽ không được phép đăng tải lại tới các dịch vụ khác.<br />
