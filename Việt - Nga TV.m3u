@@ -717,9 +717,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="tlchd" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
 http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxp
+#EXTINF:-1 tvg-id="Travelxp.in" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/8KQirah.png",TRAVELXP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TSports7.th" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/KyI0s5n.png",T Sports 7
+#EXTINF:-1 tvg-id="TSports7.th" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/KyI0s5n.png",T SPORTS 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Okcnmt6.png",TPTV
 https://tv-live.tpchannel.org/live/tv.m3u8
@@ -770,8 +770,8 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал Азия
 http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР Планета Азия
-http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР Азия
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD
@@ -783,8 +783,8 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24 International
-http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
+#EXTINF:-1 tvg-id="rossia-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24 HD
+http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr-pl2" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.postimg.cc/SKvcc9jb/OTR.png",Общественное Телевидение России
@@ -862,7 +862,7 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/gXbUMVy.png",Москва 24
-http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe/playlist.m3u8
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 tvg-id="doverie" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/QDqDQzt.png",Москва Доверие
 http://213.91.178.133:8000/play/a0b2
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение
@@ -1235,7 +1235,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/v0OYe1d.png",Соловьёв.Live
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 tvg-id="xabar" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
