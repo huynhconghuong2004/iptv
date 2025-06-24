@@ -1258,11 +1258,11 @@ http://vod.splay.uz/live_splay/original/MMATV/tracks-v1a1/mono.m3u8
 http://162.19.205.146/10507/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 tvg-id="viasat-sport" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
 http://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="avto-plus" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
+#EXTINF:-1 tvg-id="avto-plus" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
 http://vod.splay.uz/live_splay/original/Avto_Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="drive" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/FnuwfSC.png",Драйв
+#EXTINF:-1 tvg-id="drive" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/FnuwfSC.png",Драйв
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
 http://162.19.205.146/10473/tracks-v1a1/mono.m3u8?token=F114E24B2461
