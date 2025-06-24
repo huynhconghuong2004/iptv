@@ -722,7 +722,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="KÊNH TỔNG HỢP",TVE INTERNACIONAL
 http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-#EXTINF:-1 tvg-id="TVK.kh" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/5hPxjcl.png",TVK - TH QUỐC GIA CAMPUCHIA
+#EXTINF:-1 tvg-id="TVK.kh" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/5hPxjcl.png",TVK - TH QUỐC GIA CAMPUCHIA HD
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/RCKK4Y8Y/tvN.png",tvN • GIẢI TRÍ HÀNG ĐẦU
 https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
