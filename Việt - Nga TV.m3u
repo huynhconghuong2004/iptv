@@ -770,8 +770,8 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал HD
 https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-arm" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР HD
-http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР Азия
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD
