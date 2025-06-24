@@ -461,13 +461,15 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 tvg-id="CCTV4美洲" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 美洲
 https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV10" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10
+#EXTINF:-1 tvg-id="CCTV5+" group-title="KÊNH THỂ THAO" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV5+ 体育赛事
+http://49.0.64.96:8007/CCTV-5
+#EXTINF:-1 tvg-id="CCTV10" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-id="CCTV13" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新闻
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 tvg-id="CCTV14" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少儿
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音乐
 https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 #EXTINF:-1 tvg-id="1298" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/Mb5ssnu.png",CELESTIAL MOVIES
 https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
@@ -504,7 +506,7 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/V8AUJP6.png",DA VINCI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD SPORTS
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD SPORTS
 http://38.96.178.201/live/DDSports/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/2JR5vSZ.png",DISCOVERY CHANNEL HD
 http://125hvt.ddns.net:21585/discovery/tracks-v1a1/mono.m3u8
@@ -526,7 +528,7 @@ https://jmp2.uk/sam-ESBC4700001GR.m3u8
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/s4jDnJh.png",EURONEWS
+#EXTINF:-1 tvg-id="EUROSPORT" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/s4jDnJh.png",EUROSPORT
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/GFTAN5Q.png",FASHION TV
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
@@ -686,12 +688,6 @@ http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 #EXTINF:-1 tvg-id="SunBangla.in" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/fH62JFs.png",SUN BANGLA
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="KÊNH TIN TỨC",PHOENIX CHINESE CHANNEL
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="368372" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="KÊNH TIN TỨC",PHOENIX HONG KONG
-http://110.235.82.60:8001/bysid/85
-#EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="KÊNH TIN TỨC",PHOENIX INFONEWS
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="Pogo.in" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/70pYQh4.png",POGO
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/L0EQrhp.png",PLANET EARTH HD
@@ -711,8 +707,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД
 http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="ThairathTV.th" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/qIorZoy.png",THAIRATH - TH QUỐC GIA THÁI LAN HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/Y282owj.png",THRILL
 https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="tlchd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
@@ -745,8 +739,6 @@ https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="womanhd" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/ePYXLBQ.png",WOMAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="XingKongChina.cn" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/3jlwft1.png",XING KONG
-http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="YTN.kr" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN • TIN TỨC HÀNG ĐẦU
 http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="ZeeAction.in" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/DwYR6WPZ/1280px-Zee-Action-2025-svg.png",ZEE ACTION
@@ -767,6 +759,16 @@ https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
 https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZOOMOO
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/qIorZoy.png",ไทยรัฐทีวี TV 32 HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTINF:-1 tvg-id="XingKongChina.cn" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/3jlwft1.png",星空卫视
+http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="KÊNH TIN TỨC",鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="368372" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="KÊNH TIN TỨC",鳳凰衛視香港台
+http://110.235.82.60:8001/bysid/85
+#EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="KÊNH TIN TỨC",鳳凰衛視資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал HD
 https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
