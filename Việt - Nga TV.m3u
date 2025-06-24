@@ -409,9 +409,9 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKJDpbWh/1280px-TV-2025-svg.png" group-title="KÊNH PHIM TRUYỆN" group-logo="https://i.imgur.com/tdozyTU.png",&TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" group-title="KÊNH TIN TỨC" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="abcaustralia" group-title="KÊNH TỔNG HỢP" group-logo="https://i.postimg.cc/T2mLVxQn/image.png" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC AUSTRALIA
 http://49.0.64.96:8007/ABC
-#EXTINF:-1 tvg-id="ABCNews.au" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC NEWS
+#EXTINF:-1 tvg-id="ABCNews.au" group-title="KÊNH TIN TỨC" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC NEWS
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BB93NQP.png",ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -420,7 +420,7 @@ https://cdn4.skygo.mn/live/disk1/AnimalPlanet/HLSv3-FTA/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/pux6WN8.png",ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Asu5pE9.png",ARIRANG
+#EXTINF:-1 tvg-id="arirang" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/Asu5pE9.png",ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" group-title="KÊNH TIN TỨC" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP NEWS
@@ -459,13 +459,13 @@ https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="KÊNH ĐẶC SẮC",CGN TV
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-#EXTINF:-1 tvg-id="CCTV4美洲" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 美洲
+#EXTINF:-1 tvg-id="CCTV4美洲" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 美洲
 https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV5+" group-title="KÊNH THỂ THAO" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV5+ 体育赛事
 http://49.0.64.96:8007/CCTV-5
 #EXTINF:-1 tvg-id="CCTV10" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-id="CCTV13" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV13" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/hg9DBpz.png",CCTV-13 新闻
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少儿
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
@@ -493,7 +493,7 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
 #EXTINF:-1 tvg-id="cgtn" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Q3gLfHw.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="429566" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="429566" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN DOCUMENTARY
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="KÊNH TIN TỨC",CGTN ARABIC
 http://livear.cgtn.com/1000a/prog_index.m3u8
@@ -562,14 +562,14 @@ https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:-1 tvg-id="inthebox" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/C4bG0Md.png",IN THE BOX CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="KÊNH TIN TỨC",LOTUS MACAU
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="KÊNH TỔNG HỢP",LOTUS MACAU
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="KBSKorea.kr" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS KOREA
 https://cdn4.skygo.mn/live/disk1/KBS_World_24/HLSv3-FTA/KBS_World_24.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH TỔNG HỢP" group-logo="https://i.postimg.cc/T2mLVxQn/image.png" tvg-logo="https://i.imgur.com/p02AEOF.png",KCTV - TH TRUNG ƯƠNG TRIỀU TIÊN
+#EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/p02AEOF.png",KCTV - TH TRUNG ƯƠNG TRIỀU TIÊN
 https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="KÊNH GIẢI TRÍ",KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -604,9 +604,9 @@ https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="myzen-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/fIi8o0C.png",MYZEN.TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="KÊNH TIN TỨC",NNTV - TH MÔNG CỔ
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="KÊNH TỔNG HỢP",NNTV - TH MÔNG CỔ
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
-#EXTINF:-1 tvg-id="NTV.bd" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/l75bDTx.png",NTV - TH QUỐC GIA BANGLADESH
+#EXTINF:-1 tvg-id="NTV.bd" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/l75bDTx.png",NTV - TH QUỐC GIA BANGLADESH
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -687,9 +687,9 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/L0EQrhp.png",PLANET EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/1nN4rEP.png",RAI ITALIA
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/1nN4rEP.png",RAI ITALIA
 http://49.0.64.96:8007/RAI_Asia
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/1nN4rEP.png",RAI ITALIA HD
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/1nN4rEP.png",RAI ITALIA HD
 http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/K9KX8un.png",REPUBLIC TV
 http://212.102.34.8:9080/RepublicTV/mono.m3u8
@@ -720,7 +720,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 MONDE ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="KÊNH TIN TỨC",TVE INTERNACIONAL
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="KÊNH TỔNG HỢP",TVE INTERNACIONAL
 http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/5hPxjcl.png",TVK - TH QUỐC GIA CAMPUCHIA
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
@@ -1214,17 +1214,17 @@ http://sc.id-tv.kz/Atameken.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
-#EXTINF:-1 tvg-id="kazakh-tv" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
+#EXTINF:-1 tvg-id="kazakh-tv" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="kazakhstan" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/oI8g396.png",Qazaqstan International
 http://vod.splay.uz/live_splay/original/Qazaqstan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vmeste-rf" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
+#EXTINF:-1 tvg-id="vmeste-rf" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="dumatv" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
+#EXTINF:-1 tvg-id="dumatv" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
 http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tro" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
+#EXTINF:-1 tvg-id="tro" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/v0OYe1d.png",Соловьёв.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
