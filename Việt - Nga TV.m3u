@@ -1220,7 +1220,7 @@ https://pkvc-hls.cdnvideo.ru/Telecafe/smil:Telecafe.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s20/04.m3u8
 
-#EXTINF:-1 tvg-id="1plus1-int" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/LOY0rtp.png",1+1 International
+#EXTINF:-1 tvg-id="1plus1-int" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/LOY0rtp.png",1+1 International
 http://80.245.95.243:8888/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ
 http://sc.id-tv.kz/Khabar_24.m3u8
