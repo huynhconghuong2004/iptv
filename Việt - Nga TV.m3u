@@ -407,14 +407,14 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/6tey10m.png",YTV - TH CÀ MAU HD
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKJDpbWh/1280px-TV-2025-svg.png" group-title="KÊNH PHIM TRUYỆN" group-logo="https://i.imgur.com/tdozyTU.png",&TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKJDpbWh/1280px-TV-2025-svg.png" group-title="KÊNH PHIM TRUYỆN" group-logo="https://i.imgur.com/tdozyTU.png",&TV HD
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="KÊNH TỔNG HỢP" group-logo="https://i.postimg.cc/T2mLVxQn/image.png" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC AUSTRALIA
 http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="ABCNews.au" group-title="KÊNH TIN TỨC" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC NEWS
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BB93NQP.png",ALJAZEERA
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="KÊNH ĐẶC SẮC" group-logo="https://i.postimg.cc/d3f2XjkD/2.png" tvg-logo="https://i.imgur.com/BJVAUWg.png",ANIMAL PLANET
 https://cdn4.skygo.mn/live/disk1/AnimalPlanet/HLSv3-FTA/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/pux6WN8.png",ASIAN FOOD NETWORK
