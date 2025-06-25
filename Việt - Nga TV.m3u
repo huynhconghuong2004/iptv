@@ -581,6 +581,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="man" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/eojhBXT.png",MAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.ibb.co/GQFqgWR/MBCKR-BEARTV.png",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT - TH QUỐC GIA THÁI LAN HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="KÊNH TỔNG HỢP",MRTV - TH QUỐC GIA MYANMAR
@@ -613,11 +615,15 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/oWB3ApR.png",OBS
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_55.m3u8
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.postimg.cc/4xjbqg7F/oto-shopping-1-th.png",OTO SHOPPING • MUA SẮM HÀNG ĐẦU
 http://49.0.64.96:8007/JAJINGJA
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/Kh4MWaY.png",OUTDOOR CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/4LHX71N.png",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/VwQnBqa.png",SETANTA SPORTS 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/VwQnBqa.png",SETANTA SPORTS 2 HD
@@ -734,7 +740,7 @@ http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN • TIN TỨC HÀNG ĐẦU
-http://210.92.207.38:40001
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/DwYR6WPZ/1280px-Zee-Action-2025-svg.png",ZEE ACTION HD
 https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
 #EXTINF:-1 tvg-id="404001" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",ZEE BANGLA
