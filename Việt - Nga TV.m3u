@@ -526,7 +526,7 @@ https://jmp2.uk/sam-ESBC4700001GR.m3u8
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/GFTAN5Q.png",FASHION TV HD
+#EXTINF:-1 tvg-id="fashion-tv" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/wlBkL9j.png",FASHION TV HD
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" group-title="KÊNH TIN TỨC" tvg-logo="https://i.postimg.cc/SKgVLPqd/Fox-News-Channel.png",FOX NEWS CHANNEL
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
