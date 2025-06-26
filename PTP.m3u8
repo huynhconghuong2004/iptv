@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1900800
+http://ott-cdn.ucom.am/s15/04.m3u8
