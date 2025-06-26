@@ -773,14 +773,14 @@ http://31.148.48.15/Karusel/tracks-v1a1/mono.m3u8
 http://94.230.128.107:8080/OTP/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/ostQQO7.png",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv-int" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ International
-http://178.134.1.158:8081/RENTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
+http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/yY39nMg.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sts-int" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС International
-http://178.134.1.158:8081/CTC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="domashny-int" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний International
-http://213.91.178.133:8000/play/a0b5
+#EXTINF:-1 tvg-id="sts-pl4" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
+http://81.161.126.82/1230/index.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
+http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3
 http://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
@@ -1192,8 +1192,6 @@ https://pkvc-hls.cdnvideo.ru/Telecafe/smil:Telecafe.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s20/04.m3u8
 
-#EXTINF:-1 tvg-id="1plus1-int" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/LOY0rtp.png",1+1 International
-http://80.245.95.243:8888/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ
 http://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ HD
