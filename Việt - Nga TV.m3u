@@ -437,7 +437,9 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #EXTINF:-1 group-title="KÊNH CA NHẠC" group-logo="https://i.postimg.cc/nLnRfZcm/2.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="KÊNH ĐẶC SẮC",BBC LIFESTYLE
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png" group-title="KÊNH ĐẶC SẮC",BBC EARTH
+http://luizkun.duckdns.org:63213/rtp/232.84.3.226:11278
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/i7aYwdZ.png" group-title="KÊNH ĐẶC SẮC",BBC LIFESTYLE
 https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC NEWS
 https://i.mjh.nz/.r/bbc-news.m3u8
@@ -612,7 +614,7 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/zXK5bLFx/Sony-Aath-new.png",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.postimg.cc/6pC8JZ2J/RnzI34c.png" group-title="KÊNH ĐẶC SẮC",SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pC8JZ2J/RnzI34c.png" group-title="KÊNH ĐẶC SẮC",SONY BBC EARTH HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/JzRnRcCN/Sony-Marathi.png",SONY MARATHI HD
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
