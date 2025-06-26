@@ -766,7 +766,7 @@ http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
-http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="karusel" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель
 http://vs6.cdn.mrf.tvime.ru/karusel_MSK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.postimg.cc/Px2C61MM/OTP.png",Общественное Телевидение России
