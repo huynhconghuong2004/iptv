@@ -144,9 +144,9 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - TodayTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 - SEE TV HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
-#EXTINF:-1 tvg-id="sctv4hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/jZBnIXW.png",SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/1RDaToZ.png",SCTV4 - LET'S VIET HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
 #EXTINF:-1 tvg-id="sctv5hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/FYLs4yu.png",SCTV5 - SCJ TV SHOPPING HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv5
@@ -179,7 +179,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - CHANNEL T HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV" tvg-logo="http://i.imgur.com/aXVM1Bj.png",SCTV20 - iTV HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/onPtlVa.png",SCTV21 - VIỆT NAM KÝ ỨC HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
@@ -724,7 +724,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/5hPxjcl.png",TVK - TH QUỐC GIA CAMPUCHIA HD
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/RCKK4Y8Y/tvN.png",tvN • GIẢI TRÍ HÀNG ĐẦU
+#EXTINF:-1 tvg-id="tvN" group-title="KÊNH GIẢI TRÍ" tvg-logo="http://i.imgur.com/vQoKH17.png",tvN • GIẢI TRÍ HÀNG ĐẦU
 https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvNMovies" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN MOVIES
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
@@ -764,7 +764,7 @@ http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="KÊNH TIN TỨC",鳳凰衛視資訊台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал HD
+#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал HD
 https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
