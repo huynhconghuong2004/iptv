@@ -698,9 +698,9 @@ https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainment" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/PWzq0aU.png",ROCK ENTERTAINMENT
 https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-id="rt-news" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT
-http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД
-http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
+http://dmi3y-tv.ru/hls/CH_RT.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД HD
+http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/Y282owj.png",THRILL
 https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="tlchd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
@@ -1131,8 +1131,6 @@ http://178.217.72.66:8080/Zdorovoe_TV/tracks-v1a1/mono.m3u8
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
 http://185.57.68.33/40/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="KÊNH ĐẶC SẮC",ЗООПАРК
 http://vod.splay.uz/live_splay/original/ZooPark/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zootv" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="KÊNH ĐẶC SẮC",Зоо ТВ
