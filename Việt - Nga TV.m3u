@@ -179,7 +179,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - CHANNEL T HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV" tvg-logo="http://i.imgur.com/aXVM1Bj.png",SCTV20 - iTV HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/aXVM1Bj.png",SCTV20 - iTV HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/onPtlVa.png",SCTV21 - VIỆT NAM KÝ ỨC HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
@@ -724,7 +724,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/5hPxjcl.png",TVK - TH QUỐC GIA CAMPUCHIA HD
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN" group-title="KÊNH GIẢI TRÍ" tvg-logo="http://i.imgur.com/vQoKH17.png",tvN • GIẢI TRÍ HÀNG ĐẦU
+#EXTINF:-1 tvg-id="tvN" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/vQoKH17.png",tvN • GIẢI TRÍ HÀNG ĐẦU
 https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvNMovies" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN MOVIES
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
