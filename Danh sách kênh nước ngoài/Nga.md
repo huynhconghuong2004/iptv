@@ -20,10 +20,10 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 12 |      Спас Ⓢ       | [>](http://spas.mediacdn.ru/cdn/spas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
 | 13 |      СТС Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
 | 14 |   Домашний Ⓢ     | [>](http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
-| 15 |      ТВ-3 Ⓢ       | [>](http://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8) | <img height="20" src="https://i.imgur.com/JLAvq8O.png"/> | TV3.ru |
+| 15 |      ТВ-3       | [>](http://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8) | <img height="20" src="https://i.imgur.com/JLAvq8O.png"/> | TV3.ru |
 | 16 |   Пятница! Ⓢ     | [>](http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
-| 17 |     Звезда      | [>](http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
-| 18 |       Мир         | [>](http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
+| 17 |     Звезда Ⓢ     | [>](http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
+| 18 |       Мир Ⓢ        | [>](http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |      ТНТ Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
 | 20 |    Муз-ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 | 21 |       РБК         | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
