@@ -1333,6 +1333,10 @@ http://radiovera.hostingradio.ru:8007/radiovera_128
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="KÊNH KHÁC" tvg-logo="https://i.imgur.com/vYXzNdU.png" radio="true",Радио Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="KÊNH KHÁC" tvg-logo="https://i.postimg.cc/X76QGjR5/Kuzbass.png" radio="true",Радио Кузбасс FM
+http://94.127.94.107:8000/KuzbassFM
+#EXTINF:-1 group-title="KÊNH KHÁC" tvg-logo="https://i.postimg.cc/GmvvYv1J/New-logo.png" radio="true",Радио Сибирь
+http://stream.radiosibir.ru:8090/om2
 #EXTINF:-1 group-title="KÊNH KHÁC" tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" radio="true",Радио Шансон
 http://89.204.58.59:8000/ch_72_01
 #EXTINF:-1 tvg-id="retro-fm" group-title="KÊNH KHÁC" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/r03g93Q.png" radio="true",Ретро FM
