@@ -29,8 +29,8 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 21 |       РБК         | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский Ⓖ   | [>](http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
 | 23 |  CGTN Pусский    | [>](http://liveru.cgtn.com/1000r/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
-| 24 |    Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
-| 25 | РТР-Планета Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlanetaAsia.ru |
+| 24 |    Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BP7tY6F.png"/> | Belarus24.by |
+| 25 | РТР-Планета Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRPlanetaAsia.ru |
 
 <h2>Regional/Региональный/Địa phương</h2>
 
