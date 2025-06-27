@@ -4,7 +4,7 @@
 
 https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_России#Мультиплексы (only in Russian language/только на русском языке/chỉ bằng tiếng Nga)
 
-|  # |      Channel       | Link  | Logo | EPG id |
+|  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
 |  1 |   Первый канал Ⓢ | [>](https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |     Россия 1 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
@@ -35,13 +35,13 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 27 |РТР-Планета Европа Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlanetaEurope.ru |
 | 28 | РТР-Планета США Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlanetaUSA.us |
 
-<h2>Regional</h2>
+<h2>Regional/Региональный/Địa phương</h2>
 
 * Livestreams from YouTube-like services:
     * https://www.pomorie.ru/arctica24/ (VK Video)
     * https://katun24.ru/k24, https://kuban24.tv/tv (OK.ru)
 
-| #   | Channel        | Link  | Logo | EPG id |
+|  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Арктика 24 Ⓥ | [>](https://vk.com/video-213370539_456239018) | <img height="20" src="https://i.imgur.com/CL0G88u.png"/> | Arktika24.ru |
 | 0   | Архыз 24 | [>](http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8) | <img height="20" src="https://i.imgur.com/mve0sSS.png"/> | Arkhyz24.ru |
@@ -70,7 +70,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 * https://smotrim.ru/live/
 
-| #   | Channel        | Link  | Logo | EPG id |
+|  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 360 Новости | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YXDeX8q.png"/> | 360News.ru |
 | 0   | Вести ФМ | [>](http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
@@ -85,11 +85,11 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 <h2>DVB-S</h2>
 
-| #   | Channel        | Link  | Logo | EPG id |
+|  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Матч! Планета Ⓢ | [>](https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8) | <img height="20" src="https://i.imgur.com/vhyMb9D.png"/> | MatchPlaneta.ru |
 
-<h2>Invalid</h2>
+<h2>Invalid/Неверный/Không hợp lệ</h2>
 
-| #   | Channel        | Link  | Logo | EPG id |
+|  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
