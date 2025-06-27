@@ -45,6 +45,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Сибирь 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/WxU6QUB.png"/> | Sibir24.ru |
 | 0   | Продвижение | [>](http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8) | <img height="20" src="https://i.imgur.com/JrOuqJy.png"/> | Prodvizhenie.ru |
 | 0   | ТНВ-Планета | [>](http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/ijA1zDw.png"/> | TNVPlanet.ru |
+| 0   | Тува 24 | [>](http://vod.tuva.ru/tuva24/tracks-v1a1/mono.m3u8) | <img height="20" src="https://epg.iptvx.one/picons/tuva24.png"/> |  |
 
 <h2>DVB-S2</h2>
 
