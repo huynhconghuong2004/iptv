@@ -9,7 +9,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  1 |   Первый канал Ⓢ | [>](https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |     Россия 1 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
-|  4 |       НТВ Ⓢ        | [>](http://cdn.ntv.ru/ntv4/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
+|  4 |       НТВ Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал Ⓢ   | [>](http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура Ⓢ  | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ     | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
