@@ -28,8 +28,8 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 20 |    Муз-ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 | 21 |       РБК         | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский Ⓖ   | [>](http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
-| 23 |  CGTN Pусский    | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
-| 24 |    Euronews Ⓨ | [>](https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
+| 23 |  CGTN Pусский    | [>](http://liveru.cgtn.com/1000r/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
+| 24 |    Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
 | 25 | РТР-Планета Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlanetaAsia.ru |
 
 <h2>Regional/Региональный/Địa phương</h2>
@@ -40,28 +40,15 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 0   | Арктика 24 Ⓥ | [>](https://vk.com/video-213370539_456239018) | <img height="20" src="https://i.imgur.com/CL0G88u.png"/> | Arktika24.ru |
-| 0   | Архыз 24 | [>](http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8) | <img height="20" src="https://i.imgur.com/mve0sSS.png"/> | Arkhyz24.ru |
-| 0   | Астрахан 24 | [>](http://streaming.astrakhan.ru/astrakhan24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9WcnjQN.png"/> | Astrakhan24.ru |
-| 0   | Башкортостан 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/FQhWs1M.png"/> | Bashkortostan24.ru |
-| 0   | Белгород 24 | [>](http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8) | <img height="20" src="https://i.imgur.com/EEirvyx.png"/> | Belgorod24.ru |
-| 0   | Ветта 24 | [>](http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zKH1b5k.png"/> | Vetta24.ru |
-| 0   | Волгоград 24 Ⓢ | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/gFMnaU5.png"/> | Volgograd24.ru |
-| 0   | Запад 24 | [>](http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Zapad_24.jpg"/> | Zapad24.ru |
-| 0   | Кавказ 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/DyJw1Pi.png"/> | Kavkaz24.ru |
-| 0   | Катунь 24 Ⓞ | [>](https://live.katun24.ru:8082/katun/katun/index.m3u8) | <img height="20" src="https://i.imgur.com/mr2Peqj.png"/> | Katun24.ru |
-| 0   | Крым 24 | [>](https://cdn.1tvcrimea.ru/24tvcrimea.m3u8) | <img height="20" src="https://i.imgur.com/k4C0uvp.png"/> | Crimea24.ru |
-| 0   | Кубань 24 Ⓞ | [>](https:://stream.kuban24.tv/app/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/atzrXcz.png"/> | Kuban24.ru |
-| 0   | Луганск 24 | [>](http://tv.gtrklnr.ru/hls/Lugansk24.m3u8) | <img height="20" src="https://i.imgur.com/YnLFQnt.png"/> | Lugansk24.ua |
-| 0   | Мир Белогорья | [>](http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8) | <img height="20" src="https://i.imgur.com/CCNAg7R.png"/> | MirBelogorya.ru |
+| 0   | 8 канал | [>](http://v4.proofix.ru:80/8tv-russia/index.m3u8) | <img height="20" src="https://i.imgur.com/q3JCAC3.png"/> | 12Kanal.ru |
+| 0   | 12 канал | [>](http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OA9hm6e.png"/> | 12Kanal.ru |
+| 0   | Енисей | [>](http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GTXkAUu.png"/> | Enisey.ru |
+| 0   | Катунь 24 | [>](https://live.katun24.ru:8082/katun/katun/index.m3u8) | <img height="20" src="https://i.imgur.com/mr2Peqj.png"/> | Katun24.ru |
 | 0   | Москва 24 | [>](http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gXbUMVy.png"/> | Moskva24.ru |
-| 0   | Нижний Новгород 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/ZWgPVIC.png"/> | NizhniyNovgorod24.ru |
-| 0   | Самара 24 | [>](http://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Xg7Xzna.png"/> | Samara24.ru |
-| 0   | Саратов 24 | [>](http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Y5G3ET6.png"/> | Saratov24.ru |
+| 0   | ОТС | [>](http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T7YPwMe.png"/> | OTS.ru |
 | 0   | Сибирь 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/WxU6QUB.png"/> | Sibir24.ru |
-| 0   | Тольятти 24 | [>](http://tvtogliatti24.ru/hls/live1080/index.m3u8) | <img height="20" src="https://i.imgur.com/5jVKopE.png"/> | Tolyatti24.ru |
-| 0   | Урал 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/EaxyGh0.png"/> | Ural24.ru |
-| 0   | Якутия 24 | [>](http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2BAQklm.png"/> | Yakutiya24.ru |
+| 0   | Продвижение | [>](http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8) | <img height="20" src="https://i.imgur.com/JrOuqJy.png"/> | Prodvizhenie.ru |
+| 0   | ТНВ-Планета | [>](http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/ijA1zDw.png"/> | TNVPlanet.ru |
 
 <h2>Web</h2>
 
@@ -69,16 +56,12 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 0   | 360 Новости | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YXDeX8q.png"/> | 360News.ru |
-| 0   | Вести ФМ | [>](http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
-| 0   | Небеса ТВ7 Ⓢ | [>](https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8) | <img height="20" src="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png"/> | NebesaTV7.ru |
-| 0   | Север | [>](https://live.mediacdn.ru/sr1/sever/playlist.m3u8) | <img height="20" src="https://i.imgur.com/sTOQLYl.png"/> | Sever.ru |
-| 0   | Смотрим - Детям | [x]() | <img height="20" src="https://cdn-st1.smotrim.ru/vh/pictures/r/424/215/2.png"/> |
-| 0   | Смотрим - Мелодрамы | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8) | <img height="20" src="https://cdn-st1.smotrim.ru/vh/pictures/r/456/967/6.png"/> |
-| 0   | Смотрим - Тайны | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/456/396/2.png"/> |
-| 0   | Смотрим - Честный Детектив | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png"/> |
-| 0   | Соловьёв Live | [>](http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1) | <img height="20" src="https://i.imgur.com/v0OYe1d.png"/> | SolovyovLive.ru |
-| 0   | Ю Ⓢ | [>](http://tv.streams.baikal-telecom.net/U/tracks-v1a1/mono.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%AE%C2%BB_%28%D1%81_3_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0%29.png"/> | U.ru |
+| 0   | 360 | [>](http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VTJqdoX.png"/> | 360.ru |
+| 0   | 360 Новости | [>](http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YXDeX8q.png"/> | 360News.ru |
+| 0   | Вести ФМ | [>](http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173/playlist.m3u8) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
+| 0   | Соловьёв Live | [>](http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v0OYe1d.png"/> | SolovyovLive.ru |
+| 0   | Ю Ⓢ | [>](http://tv.streams.baikal-telecom.net/U/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/KDZvt0Q.png"/> | U.ru |
+| 0   | Толк | [>](http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8) | <img height="20" src="https://epg.iptvx.one/picons/tolk.png"/> | TolkHD.ru |
 
 <h2>DVB-S</h2>
 
