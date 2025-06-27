@@ -438,7 +438,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 group-title="KÊNH CA NHẠC" group-logo="https://i.postimg.cc/nLnRfZcm/2.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png" group-title="KÊNH ĐẶC SẮC",BBC EARTH
-http://mail.glevn.com:56321/udp/225.1.4.21:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.3.226:11278
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/i7aYwdZ.png" group-title="KÊNH ĐẶC SẮC",BBC LIFESTYLE
 https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC NEWS
@@ -456,7 +456,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH THIẾU NHI" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK HD
 https://smart.pendy.dpdns.org/Smart.php?id=Cn
 #EXTINF:-1 tvg-id="cbeebies" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="KÊNH THIẾU NHI",CBEEBIES HD
-http://mail.glevn.com:56321/udp/225.1.4.29:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.1.90:10398
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="KÊNH ĐẶC SẮC",CGN TV
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 tvg-id="CCTV2" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/rkF6lUv.png",CCTV-2 财经
@@ -480,7 +480,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 #EXTINF:-1 tvg-id="1298" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/Mb5ssnu.png",CELESTIAL MOVIES
 https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/vFVxJx4.png",CINEMA WORLD HD
-http://mail.glevn.com:56321/udp/225.1.1.142:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.3.64:11668
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX HD
 https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="cnbc" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/96cqIYx.png",CNBC
