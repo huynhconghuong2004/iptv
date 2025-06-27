@@ -837,10 +837,16 @@ http://v4.proofix.ru:80/8tv-russia/index.m3u8
 http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/2wx5jF6.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",Astana TV
 http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 tvg-id="aist" tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",Аист ТВ
+http://tv.streams.baikal-telecom.net/Aist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",Катунь 24
 https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://epg.iptvx.one/picons/kuzbas1.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",Кузбасс 1 HD
+http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
+#EXTINF:-1 tvg-id="nts-irkutsk" tvg-logo="https://i.postimg.cc/ZRp7PSp5/HTC.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",НТС
+http://air.nts-tv.ru/fhd.m3u8
 #EXTINF:-1 tvg-id="moskva-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/gXbUMVy.png",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 tvg-id="ots" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/T7YPwMe.png",ОТС
