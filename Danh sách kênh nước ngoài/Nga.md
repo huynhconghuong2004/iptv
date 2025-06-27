@@ -34,10 +34,6 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 <h2>Regional/Региональный/Địa phương</h2>
 
-* Livestreams from YouTube-like services:
-    * https://www.pomorie.ru/arctica24/ (VK Video)
-    * https://katun24.ru/k24, https://kuban24.tv/tv (OK.ru)
-
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 8 канал | [>](http://v4.proofix.ru:80/8tv-russia/index.m3u8) | <img height="20" src="https://i.imgur.com/q3JCAC3.png"/> | 12Kanal.ru |
@@ -50,9 +46,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Продвижение | [>](http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8) | <img height="20" src="https://i.imgur.com/JrOuqJy.png"/> | Prodvizhenie.ru |
 | 0   | ТНВ-Планета | [>](http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/ijA1zDw.png"/> | TNVPlanet.ru |
 
-<h2>Web</h2>
-
-* https://smotrim.ru/live/
+<h2>DVB-S2</h2>
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
