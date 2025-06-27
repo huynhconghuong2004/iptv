@@ -1,16 +1,16 @@
-<h1>Russia</h1>
+<h1>Russia/Россия/Nga</h1>
 
 <h2>DVB-T2</h2>
 
-https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_России#Мультиплексы (only in Russian language)
+https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_России#Мультиплексы (only in Russian language/только на русском языке/chỉ bằng tiếng Nga)
 
 |  # |      Channel       | Link  | Logo | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
-|  1 |   Первый канал   | [>](https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
-|  2 |     Россия 1     | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
-|  3 |     Матч ТВ Ⓢ      | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
+|  1 |   Первый канал Ⓢ | [>](https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
+|  2 |     Россия 1 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
+|  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://cdn.ntv.ru/ntv4/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
-|  5 |   Пятый канал Ⓢ    | [>](http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
+|  5 |   Пятый канал Ⓢ   | [>](http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура Ⓢ  | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ     | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |     Карусель Ⓢ     | [>](https://streaming.televizor-24-tochka.ru/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
@@ -61,7 +61,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Нижний Новгород 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/ZWgPVIC.png"/> | NizhniyNovgorod24.ru |
 | 0   | Самара 24 | [>](http://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Xg7Xzna.png"/> | Samara24.ru |
 | 0   | Саратов 24 | [>](http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Y5G3ET6.png"/> | Saratov24.ru |
-| 0   | Сибирь 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/WxU6QUB.png"/> | Sibir24.ru |
+| 0   | Сибирь 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/WxU6QUB.png"/> | Sibir24.ru |
 | 0   | Тольятти 24 | [>](http://tvtogliatti24.ru/hls/live1080/index.m3u8) | <img height="20" src="https://i.imgur.com/5jVKopE.png"/> | Tolyatti24.ru |
 | 0   | Урал 24 | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/EaxyGh0.png"/> | Ural24.ru |
 | 0   | Якутия 24 | [>](http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2BAQklm.png"/> | Yakutiya24.ru |
