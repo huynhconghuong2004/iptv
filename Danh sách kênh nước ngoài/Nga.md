@@ -6,7 +6,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
-|  1 |   Первый канал  | [>](https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
+|  1 |   Первый канал  | [>](http://cdn9.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |      Россия 1      | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
@@ -55,7 +55,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Вести ФМ | [>](http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173/playlist.m3u8) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
 | 0   | Соловьёв Live | [>](http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v0OYe1d.png"/> | SolovyovLive.ru |
 | 0   | Ю Ⓢ | [>](http://tv.streams.baikal-telecom.net/U/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/KDZvt0Q.png"/> | U.ru |
-| 0   | Толк | [>](http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8) | <img height="20" src="https://epg.iptvx.one/picons/tolk.png"/> | TolkHD.ru |
+| 0   | Толк | [>](http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8) | <img height="20" src="https://epg.iptvx.one/picons/tolk.png"/> | TolkHD.ru |
 
 <h2>DVB-S</h2>
 
