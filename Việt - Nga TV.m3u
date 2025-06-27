@@ -778,7 +778,7 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/yY39nMg.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-http://81.161.126.82/1230/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="domashny" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3
@@ -789,10 +789,10 @@ http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-kz" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
 http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tnt" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 tvg-id="muztv" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
-http://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
+https://streaming.televizor-24-tochka.ru/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="muztv-pl4" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
+https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="tnt4" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
