@@ -1,4 +1,4 @@
-<h1>Danh sách kênh Truyền hình ở Việt Nam đổi tên & Chuyển đổi nội dung</h1>
+<h1>Danh sách kênh Truyền hình ở Việt Nam thay đổi kênh & thay đổi nội dung</h1>
 
 |#|Kênh cũ|Biểu tượng|Nội dung cũ|Kênh mới|Biểu tượng|Nội dung mới|
 |:--:|:------------------:|:---------:|:----:|:------:|:------:|:------:|
