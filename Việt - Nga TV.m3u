@@ -1250,15 +1250,17 @@ http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/v0OYe1d.png",Соловьёв.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/TgZ8Uv1.png",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 tvg-id="xabar" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
-http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="xabar" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
+http://sc.id-tv.kz/Khabar.m3u8
 
 #EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="KÊNH THỂ THAO",Extreme Sports
 http://178.217.72.66:8080/Extreme_Sports/tracks-v1a1/mono.m3u8
