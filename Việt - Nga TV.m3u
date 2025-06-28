@@ -611,7 +611,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", ONE
+#EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/ea0iGfA.png",ONE
 https://smart.pendy.dpdns.org/Smart.php?id=One
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.postimg.cc/4xjbqg7F/oto-shopping-1-th.png",OTO SHOPPING • MUA SẮM HÀNG ĐẦU
 http://49.0.64.96:8007/JAJINGJA
