@@ -463,7 +463,7 @@ https://cdn.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 tvg-id="CCTV2" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/rkF6lUv.png",CCTV-2 财经
 http://120.76.248.139/live/bfgd/4200000061.m3u8
-#EXTINF:-1 tvg-id="CCTV4美洲" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 美洲
+#EXTINF:-1 tvg-id="CCTV4美洲" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 美洲
 https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV5+" group-title="KÊNH THỂ THAO" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV5+ 体育赛事
 http://49.0.64.96:8007/CCTV-5
