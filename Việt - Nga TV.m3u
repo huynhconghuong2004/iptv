@@ -1293,8 +1293,6 @@ http://178.217.72.66:8080/Match_Arena_HD/tracks-v1a1/mono.m3u8
 http://178.219.160.169/148/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/5XWpF19.png",Матч! Игра
 http://178.219.160.169/149/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-premier" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/GQPyHYK.png",Матч! Премьер
-http://178.219.160.169/139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/X02s2UE.png",Матч! Страна
 http://91.226.120.120/chid56/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football1" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/XS2BB02.png",Матч! Футбол 1
@@ -1305,6 +1303,8 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
 http://178.217.72.66:8080/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/vhyMb9D.png",Матч! Планета
 https://cdn.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+#EXTINF:-1 tvg-id="match-premier" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/GQPyHYK.png",Матч! Премьер
+http://178.219.160.169/139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="start" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/VBqVkno.png",Старт
 http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/hJK7mOW.png",Русский Экстрим
