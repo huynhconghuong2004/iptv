@@ -965,6 +965,8 @@ http://31.148.48.15/STS_Kids_HD/tracks-v1a1/mono.m3u8
 http://radio.tvs.by:8088/Malish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/kSJZjDL.png",Уникум
 http://31.148.48.15/Detskiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="shayantv" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/CvFwczN.png",Шаян
+http://31.173.165.29:8000/play/a03q
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.Black
 http://80.245.95.243:8888/play/a010/index.m3u8
