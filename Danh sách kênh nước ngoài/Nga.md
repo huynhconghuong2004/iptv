@@ -16,15 +16,15 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  8 |     Карусель Ⓢ     | [>](https://streaming.televizor-24-tochka.ru/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
 |  9 |       ОТР Ⓢ        | [>](http://vs6.cdn.mrf.tvime.ru/otr_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
 | 10 |   ТВ Центр Ⓢ   | [>](http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
-| 11 |     Рен ТВ Ⓢ      | [>](http://vs6.cdn.mrf.tvime.ru/rentvhd_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
+| 11 |     Рен ТВ Ⓢ      | [>](https://cdn.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
 | 12 |      Спас Ⓢ       | [>](http://spas.mediacdn.ru/cdn/spas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
-| 13 |      СТС Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
-| 14 |   Домашний Ⓢ     | [>](http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
-| 15 |      ТВ-3       | [>](http://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8) | <img height="20" src="https://i.imgur.com/JLAvq8O.png"/> | TV3.ru |
+| 13 |      СТС Ⓢ        | [>](https://cdn.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
+| 14 |   Домашний Ⓢ     | [>](https://cdn.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
+| 15 |      ТВ-3       | [>](https://cdn.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8) | <img height="20" src="https://i.imgur.com/JLAvq8O.png"/> | TV3.ru |
 | 16 |   Пятница! Ⓢ     | [>](http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
 | 17 |     Звезда Ⓢ     | [>](http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 18 |       Мир Ⓢ        | [>](http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
-| 19 |      ТНТ Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
+| 19 |      ТНТ Ⓢ        | [>](https://cdn.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
 | 20 |    Муз-ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 | 21 |       РБК         | [>](http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский   | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
