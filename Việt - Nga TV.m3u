@@ -686,8 +686,6 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/1nN4rEP.png",RAI ITALIA
-http://49.0.64.96:8007/RAI_Asia
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/1nN4rEP.png",RAI ITALIA HD
 http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/K9KX8un.png",REPUBLIC TV
 http://212.102.34.8:9080/RepublicTV/mono.m3u8
