@@ -1,4 +1,6 @@
-<h1>Danh sách kênh Truyền hình ở Việt Nam thay đổi kênh & thay đổi nội dung</h1>
+<h1>Danh sách kênh Truyền hình ở Việt Nam đổi tên & thay đổi nội dung</h1>
+
+<h2>Đây là danh sách kênh Truyền Hình được thay đổi sau ngày 1/7/2025</h2>
 
 |#|Kênh cũ|Biểu tượng|Nội dung cũ|Kênh mới|Biểu tượng|Nội dung mới|
 |:--:|:------------------:|:---------:|:----:|:------:|:------:|:------:|
