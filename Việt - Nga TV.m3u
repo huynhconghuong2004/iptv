@@ -807,8 +807,8 @@ http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8
 https://cdn.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv-pl4" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
 https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="tnt4" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4
-http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 tvg-id="tnt4-international" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4 International
+https://cdn.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
 http:/tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
