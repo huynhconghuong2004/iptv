@@ -581,7 +581,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="2652" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="KÊNH GIẢI TRÍ",K-PLUS HD
 https://smart.pendy.dpdns.org/Smart.php?id=Kplus
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="KÊNH TỔNG HỢP",LOTUS MACAU
-http://luizkun.duckdns.org:63213/rtp/232.84.3.192:11074
+https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/JEDlYlh.png",LOVE NATURE 4K
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/eojhBXT.png",MAN HD
@@ -619,6 +619,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", ONE
+https://smart.pendy.dpdns.org/Smart.php?id=One
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.postimg.cc/4xjbqg7F/oto-shopping-1-th.png",OTO SHOPPING • MUA SẮM HÀNG ĐẦU
 http://49.0.64.96:8007/JAJINGJA
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/Kh4MWaY.png",OUTDOOR CHANNEL HD
@@ -703,6 +705,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
 http://dmi3y-tv.ru/hls/CH_RT.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД HD
 http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIfZsD6.png" group-title="KÊNH TỔNG HỢP",TDM-Macau Satellite
+https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/Y282owj.png",THRILL
 https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="tlchd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
