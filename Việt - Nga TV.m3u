@@ -182,17 +182,6 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
 #EXTINF:-1 tvg-id="sctv4k" group-title="KÊNH SCTV" tvg-logo="https://i.postimg.cc/d3QdSWKh/SCTV4K.png",SCTV4K
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" group-logo="https://i.postimg.cc/906sYgn9/VSTV.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+CINE HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.122:10314
-#EXTINF:-1 tvg-id="kaction" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ACTION HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.123:10320
-#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+SPORT1 HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.125:10326
-#EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+SPORT2 HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.176:10374
-#EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+KIDS HD
-http://luizkun.duckdns.org:63213/rtp/232.84.3.42:11800
-
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH THIẾT YẾU" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV - TH AN NINH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -236,8 +225,6 @@ http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"tvg-logo="https://i.imgur.com/58gEtQy.png",BTV - TH BÌNH THUẬN HD
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.postimg.cc/1tKL0vvh/Shopping-24h-logo.png",Shopping 24h
-http://luizkun.duckdns.org:63213/rtp/232.84.2.197:10966
 #EXTINF:-1 tvg-id="camau" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV - TH CÀ MAU HD
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ZJmlS1G.png",THTPCT - TH CẦN THƠ HD
@@ -470,7 +457,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 #EXTINF:-1 tvg-id="1298" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/Mb5ssnu.png",CELESTIAL MOVIES
 https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/vFVxJx4.png",CINEMA WORLD HD
-http://luizkun.duckdns.org:63213/rtp/232.84.3.64:11668
+http://mail.glevn.com:56321/udp/225.1.1.142:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX HD
 https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="cnbc" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/96cqIYx.png",CNBC
@@ -608,10 +595,6 @@ http://49.0.64.96:8007/JAJINGJA
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/Kh4MWaY.png",OUTDOOR CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="spotv1" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
-http://luizkun.duckdns.org:63213/rtp/232.84.2.141:10666
-#EXTINF:-1 tvg-id="spotv2" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
-http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 #EXTINF:-1 tvg-id="412170" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/AkdfpVr.png",SONY ENTERTAINMENT TELEVISION HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/zXK5bLFx/Sony-Aath-new.png",SONY AATH
@@ -741,8 +724,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
 https://cdn.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/qIorZoy.png",ไทยรัฐทีวี TV 32 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
-#EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/3jlwft1.png",星空卫视
-http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="KÊNH TIN TỨC",鳳凰衛視中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="368372" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="KÊNH TIN TỨC",鳳凰衛視香港台
