@@ -468,8 +468,8 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ColorsHD" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/M8uCJ0D.png",COLORS
-https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
+#EXTINF:-1 tvg-id="ColorsHD" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/M8uCJ0D.png",COLORS HD
+http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KÊNH GIẢI TRÍ",COLORS BANGLA
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="ColorsTamilHD" tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="KÊNH GIẢI TRÍ",COLORS TAMIL
