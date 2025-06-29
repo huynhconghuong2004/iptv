@@ -892,7 +892,7 @@ http://31.148.48.15/O2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="KÊNH CA NHẠC" tvg-logo="https://i.postimg.cc/Gty3mRcF/3-F3-F3-F-Live-29.png",Музыка Live
 http://31.148.48.15/La-Minor_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
-https://pkvc-hls.cdnvideo.ru/Muzika/smil:Muzika.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/Muzika/smil:Muzika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/WsPlKJJ.png",Страна FM ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/Puk1Bhx.png",МузСоюз
@@ -936,7 +936,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-id="multimania" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/ccwijY0.png",Мультиландия
 http://vod.splay.uz/live_splay/original/Multilandiya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="o_" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/pDc665V.png",О!
-https://pkvc-hls.cdnvideo.ru/O/smil:O.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/O/smil:O.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radost-moya" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/B5FA62o.png",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/nhK4pK9.png",Рыжий
@@ -1001,9 +1001,9 @@ http://178.219.160.169/107/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
 https://cdn.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/zbkhImD.png",Дом Кино
-https://pkvc-hls.cdnvideo.ru/DK/smil:DK.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/DK/smil:DK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум
-https://pkvc-hls.cdnvideo.ru/DKP/smil:DKP.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/DKP/smil:DKP.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="KÊNH PHIM TRUYỆN",Дорама
 http://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9OPMLE.png" tvg-id="domkino" group-title="KÊNH PHIM TRUYỆN",Феникс плюс кино
@@ -1107,7 +1107,7 @@ http://vod.splay.uz/live_splay/original/Viasat_Explorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="KÊNH ĐẶC SẮC",Арсенал
 http://178.217.72.66:8080/arsenalhd/index.m3u8
 #EXTINF:-1 tvg-id="bobior" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобер
-https://pkvc-hls.cdnvideo.ru/Bober/smil:Bober.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/Bober/smil:Bober.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="KÊNH ĐẶC SẮC",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/GXJKWdy.png",ГЛАЗАМИ ТУРИСТА
@@ -1204,13 +1204,13 @@ http://31.148.48.15/Nostalgiya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lapki-live" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/nBXv1bA.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
-https://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="KÊNH GIẢI TRÍ",Сарафан
 http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="7kanal-kz" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/BXHtWNs.png",Седьмой канал
 http://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/1H3h1HL.png",Телекафе
-https://pkvc-hls.cdnvideo.ru/Telecafe/smil:Telecafe.smil/playlist.m3u8
+http://pkvc-hls.cdnvideo.ru/Telecafe/smil:Telecafe.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/thIBQIy.png",Центральное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s20/04.m3u8
