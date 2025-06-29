@@ -70,7 +70,7 @@ https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:-1 tvg-id="ontrending" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
-https://xem.TruyenHinh.Click/CoBan/vtvcab18hd/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onviedramas" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS HD
 https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily HD
@@ -1211,7 +1211,7 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kazakhstan" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/oI8g396.png",Qazaqstan International
-http://vod.splay.uz/live_splay/original/Qazaqstan/tracks-v1a1/mono.m3u8
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="dumatv" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
 http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
