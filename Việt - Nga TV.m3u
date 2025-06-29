@@ -680,8 +680,10 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Okcnmt6.png",TPTV - TH QUỐC HỘI THÁI LAN
 https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:-1 tvg-id="trace-sport-stars" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/FabFP5A.png",TRACE SPORT STARS
+#EXTINF:-1 tvg-id="trace-sport-stars" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/FabFP5A.png",TRACE SPORT STARS HD
 http://49.0.64.96:8007/Trace
+#EXTINF:-1 tvg-id="trace-urban" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/DLIbUMx.png",TRACE URBAN HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/XLaZUzJ.png",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/O6Xre1O.png",TRUE 4U - TH QUỐC GIA THÁI LAN HD
@@ -1179,6 +1181,8 @@ http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-id="kvn-tv" group-title="KÊNH GIẢI TRÍ",КВН ТВ
 http://31.148.48.15/KVN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/mmKWrWs.png",Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/mmKWrWs.png",Новое телевидение HD
 http://sc.id-tv.kz/NovoeTVHD.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="KÊNH GIẢI TRÍ",НОСТАЛЬГИЯ
 http://31.148.48.15/Nostalgiya/tracks-v1a1/mono.m3u8
@@ -1199,13 +1203,15 @@ http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ
 http://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ HD
-https://tvcdn01.esilnet.kz/tv/24kz/tracks-v1a1/mono.m3u8
+http://tvcdn01.esilnet.kz/tv/24kz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="atameken-business" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
 http://sc.id-tv.kz/Atameken.m3u8
 #EXTINF:-1 tvg-id="atameken-business" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business HD
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
+#EXTINF:-1 tvg-id="ictv-ua" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/97W1NOW.png",ICTV
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
