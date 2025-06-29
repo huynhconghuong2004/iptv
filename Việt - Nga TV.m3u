@@ -410,7 +410,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Animax
 https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
 #EXTINF:-1 tvg-id="axnhd" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="KÊNH TIN TỨC",BTV NEWS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx21w3kr/btv-news.jpg" group-title="KÊNH TIN TỨC",BTV NEWS
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U MOVIES
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
@@ -537,7 +537,7 @@ https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:-1 tvg-id="inthebox" group-title="KÊNH BOX" tvg-logo="https://i.imgur.com/C4bG0Md.png",IN THE BOX CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="KBSKorea.kr" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS KOREA
+#EXTINF:-1 tvg-id="" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS KOREA
 https://cdn.skygo.mn/live/disk1/KBS_World_24/HLSv3-FTA/KBS_World_24.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -691,8 +691,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 MONDE ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="KÊNH TỔNG HỢP",TVE INTERNACIONAL
-http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/5hPxjcl.png",TVK - TH QUỐC GIA CAMPUCHIA HD
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/vQoKH17.png",tvN • GIẢI TRÍ HÀNG ĐẦU
@@ -1210,8 +1208,6 @@ http://sc.id-tv.kz/Atameken.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
-#EXTINF:-1 tvg-id="ictv-ua" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/97W1NOW.png",ICTV
-https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
@@ -1341,11 +1337,6 @@ http://sk.cri.cn/905.m3u8
 https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
 #EXTINF:-1 group-title="KÊNH KHÁC" tvg-logo="https://i.postimg.cc/x1FPzWqL/RFI.png" radio="true",Radio France Internationale
 http://rfimonde96k.ice.infomaniak.ch/rfimonde-96k.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSthtx1Z/Rdp-Internacional.png" group-title="KÊNH KHÁC" radio="true",RDP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-http://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsM6zmn1/Radio-Exterior.png" group-title="KÊNH KHÁC" radio=true,RNE Radio Exterior
-http://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="KÊNH KHÁC" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Sputnik International
 http://icecast-rian.cdnvideo.ru/voicerus
 #EXTINF:-1 tvg-id="no_epg" group-title="KÊNH KHÁC" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Sputnik Türkçe
