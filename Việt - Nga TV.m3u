@@ -273,9 +273,9 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="danang1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XrdXnRz.png",DaNangTV1 - TH ĐÀ NẴNG 1 HD
+#EXTINF:-1 tvg-id="danang1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/zGkvcckR/DNRT1.png",DNRT1 - TH ĐÀ NẴNG 1 HD
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7yJ23L7.png",DaNangTV2 - TH ĐÀ NẴNG 2 HD
+#EXTINF:-1 tvg-id="danang2" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/5yMM1x49/DNRT2.png",DNRT2 - TH ĐÀ NẴNG 2 HD
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="binhdinh" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/0yZnK57.png",BTV - TH BÁO BÌNH ĐỊNH HD
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
