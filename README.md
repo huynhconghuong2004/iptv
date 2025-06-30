@@ -51,6 +51,8 @@ a) Đối với hệ điều hành Android
 # E. Những nội dung khác
 - [Văn bản và Chính sách dành cho người dùng](https://github.com/huynhconghuong2004/iptv/blob/main/V%C4%83n%20b%E1%BA%A3n%20%26%20Ch%C3%ADnh%20s%C3%A1ch%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ch%C3%ADnh%20s%C3%A1ch%20v%E1%BB%81%20vi%E1%BB%87c%20%C4%91%E1%BB%93ng%20%C3%BD%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20c%E1%BB%A7a%20Vi%C3%AA%CC%A3t%20-%20Nga%20TV.md): Để tăng tính răn đe, người dùng phải đọc kỹ và tuân thủ các chính sách của Việt - Nga TV.<br />
 
+- [Hướng dẫn việc tiếp phát chương trình OPT1 HD của nhà mạng VNPT](https://github.com/huynhconghuong2004/iptv/raw/refs/heads/main/H%C6%B0%C6%A1%CC%81ng%20d%C3%A2%CC%83n%20vi%C3%AA%CC%A3c%20ti%C3%AA%CC%81p%20pha%CC%81t%20ch%C6%B0%C6%A1ng%20tri%CC%80nh%20OPT1%20HD%20cu%CC%89a%20nha%CC%80%20ma%CC%A3ng%20VNPT.docx)
+
 # G. Liên hệ
 ### Việt - Nga TV (Văn phòng đại diện Hà Nội IPTV Khu vực Miền Nam)
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
