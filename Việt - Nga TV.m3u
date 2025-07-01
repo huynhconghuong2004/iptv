@@ -275,7 +275,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1402655020.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/NjGh94vT/QNgTV.png",QNgTV - TH BÁO QUẢNG NGÃI
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 tvg-id="quangtri" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/KzZHKcMN/QTTV.png",QTTV - TH QUẢNG TRỊ HD
+#EXTINF:-1 tvg-id="quangtri" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/gJ5wgJwP/QTTV.png",QTTV - TH QUẢNG TRỊ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV - TH THANH HOÁ HD
