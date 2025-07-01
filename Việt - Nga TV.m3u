@@ -264,7 +264,7 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT - TH BÁO ĐẮK LẮK HD
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 tvg-id="gialai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/y6Zj9w64/GTV-Gia-Lai.png",GTV - TH GIA LAI HD
+#EXTINF:-1 tvg-id="gialai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/qMNZjFC2/GTV-Gia-Lai.png",GTV - TH GIA LAI HD
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9Xvkkm3.png",BHT TV - TH BÁO HÀ TĨNH
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
