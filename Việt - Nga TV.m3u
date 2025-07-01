@@ -208,13 +208,13 @@ https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kiengiang1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/hjKTkbj4/ATV3.png",ATV3 - TH AN GIANG 3 HD
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="binhduong1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD
+#EXTINF:-1 tvg-id="binhduong1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD (TP.HCM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD
+#EXTINF:-1 tvg-id="binhduong2" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD (TP.HCM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/er3l0Pq.png",An Viên TV - B CHANNEL HD
+#EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/er3l0Pq.png",An Viên TV - B CHANNEL HD (TP.HCM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 - TH BÌNH PHƯỚC HD
@@ -237,17 +237,17 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FsCTf6v.png",THĐT2 - KÊNH MIỀN TÂY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tiengiang" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UTSrapf.png",THTG - TH ĐỒNG THÁP 3 HD
-http://123.25.238.45:1935/live/thtg/playlist.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV - TH LÂM ĐỒNG HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 - TH TÂY NINH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/OfbPgIg.png",LA34 - TH TÂY NINH 2 HD
+#EXTINF:-1 tvg-id="longan" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/OfbPgIg.png",LA34 - TH LONG AN (TÂY NINH) HD
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
-#EXTINF:-1 tvg-id="vungtau" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT - TH VŨNG TÀU HD
+#EXTINF:-1 tvg-id="tiengiang" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UTSrapf.png",THTG - TH TIỀN GIANG (ĐỒNG THÁP) HD
+http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#EXTINF:-1 tvg-id="vungtau" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT - TH VŨNG TÀU HD (TP.HCM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 
@@ -269,7 +269,7 @@ http://210.245.20.94/hls/ktv1.m3u8
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1402655020.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV - TH NGHỆ AN HD
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangngai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/NjGh94vT/QNgTV.png",QNg TV - TH BÁO QUẢNG NGÃI
+#EXTINF:-1 tvg-id="quangngai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/NjGh94vT/QNgTV.png",QNgTV - TH BÁO QUẢNG NGÃI
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/KzZHKcMN/QTTV.png",QTTV - TH QUẢNG TRỊ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
