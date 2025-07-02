@@ -133,42 +133,38 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH SCTV" group-logo="https://i.imgur.com/tNeV3JA.png" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - TodayTV HD
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 - SEE TV HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/1RDaToZ.png",SCTV4 - LET'S VIET HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-#EXTINF:-1 tvg-id="sctv5hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/FYLs4yu.png",SCTV5 - SCJ TV SHOPPING HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv5
+https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8 - VITV
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
-#EXTINF:-1 tvg-id="sctv11hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/ms11bjD.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
+https://liveh12.seenow.vn/hls/SCTV9/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+https://liveh12.seenow.vn/hls/SCTV11/index.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/aoz1iDw.png",SCTV13 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/PcWk3xl.png",SCTV14 - KÊNH PHIM VIỆT HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/sg30e7I.png",SCTV15 - SSPORT2 HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
 #EXTINF:-1 tvg-id="sctv16hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png",SCTV16 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/17lvbuq.png",SCTV17 - SSPORT HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 #EXTINF:-1 tvg-id="sctv18hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
+https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - CHANNEL T HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/aXVM1Bj.png",SCTV20 - iTV HD
@@ -178,7 +174,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/9652uFO.png",SCTV22 - SSPORT1 HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV PHIM TỔNG HỢP HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
+https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="KÊNH SCTV" tvg-logo="https://i.postimg.cc/d3QdSWKh/SCTV4K.png",SCTV4K
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
@@ -272,7 +268,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 #EXTINF:-1 tvg-id="quangngai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0R6ZL7FQ/quangngai-new-BEARTV.png",QNgTV - TH QUẢNG NGÃI
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/R4Z4Nmdy/quangtri-new-BEARTV.png",QTTV - TH QUẢNG TRỊ HD
-https://quangtritv.vn/tv/tvvnpt2024.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36Add commentMore actions
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV - TH THANH HOÁ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
