@@ -242,11 +242,11 @@ http://123.25.238.45:1935/live/thtg/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="danang1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/W4tmgVXc/danang1-new-BEARTV.png",DNRT1 - TH ĐÀ NẴNG 1 HD
+#EXTINF:-1 tvg-id="danang1" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/W4tmgVXc/danang1-new-BEARTV.png",ĐNRT1 - TH ĐÀ NẴNG 1 HD
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0RLLYx77/danang2-new-BEARTV.png",DNRT2 - TH ĐÀ NẴNG 2 HD
+#EXTINF:-1 tvg-id="danang2" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0RLLYx77/danang2-new-BEARTV.png",ĐNRT2 - TH ĐÀ NẴNG 2 HD
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 tvg-id="daklak" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT - TH BÁO ĐẮK LẮK HD
+#EXTINF:-1 tvg-id="daklak" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT - TH ĐẮK LẮK HD
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/qMNZjFC2/GTV-Gia-Lai.png",GTV - TH GIA LAI HD
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
