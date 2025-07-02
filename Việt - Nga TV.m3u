@@ -342,7 +342,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" group-title="KÊNH TIN TỨC" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP NEWS
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="KÊNH GIẢI TRÍ" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="KÊNH THIẾT YẾU",BTV National
@@ -599,6 +599,8 @@ https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 tvg-id="404001" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",ZEE BANGLA
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.postimg.cc/ZqCV5V3Y/1280px-Zee-Business-2025-svg.png",ZEE BUSINESS HD
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="432797" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",ZEE CINEMA HD
 http://103.120.172.74:4000
 #EXTINF:-1 tvg-id="411812" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",ZEE MARATHI HD
