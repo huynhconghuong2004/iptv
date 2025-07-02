@@ -231,9 +231,9 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV - TH LÂM ĐỒNG HD
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w685356133_b1384000.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/OfbPgIg.png",LA34 - TH LONG AN HD
+#EXTINF:-1 tvg-id="longan" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/1XjQW94D/TTV1-Tay-Ninh-TV.png",TTV1 - TH TÂY NINH 1 HD
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
-#EXTINF:-1 tvg-id="tayninh" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 - TH TÂY NINH HD
+#EXTINF:-1 tvg-id="tayninh" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/TPR4Wz3x/TTV2-Tay-Ninh-TV.png",TTV2 - TH TÂY NINH 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UTSrapf.png",THTG - TH TIỀN GIANG HD
