@@ -317,7 +317,7 @@ https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ci6kzgL.png",QTV3 HD
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="sonla" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xjkm6Zg.png",STV - TH BÁO SƠN LA HD
+#EXTINF:-1 tvg-id="sonla" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xjkm6Zg.png",STV - TH SƠN LA HD
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TBYBrq0X/thainguyentv-new-BEARTV.png",TN - TH THÁI NGUYÊN HD
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
