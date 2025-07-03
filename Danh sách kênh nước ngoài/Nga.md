@@ -6,7 +6,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
-|  1 | Первый канал Ⓢ | [>](http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
+|  1 |  Первый канал  | [>](http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |      Россия 1      | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://vod.splay.uz/live_splay/original/NTV_MIR/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
