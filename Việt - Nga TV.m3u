@@ -623,15 +623,14 @@ http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="KÊNH TIN TỨC",鳳凰衛視資訊台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
-http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
+http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s17/04.m3u8
+http://vod.splay.uz/live_splay/original/NTV_MIR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="piaty-int" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал International
 https://cdn.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
@@ -852,7 +851,7 @@ http://178.219.160.169/113/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shot-tv" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/MLSG7tA.png",SHOT TV
 http://178.219.160.169/131/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/5sis895.png",Star Cinema
-http://80.245.95.243:8888/play/a02f/index.m3u8
+http://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-family" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/eGuGHnZ.png",Star Family
 http://80.245.95.243:8888/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/V1kDv8H.png",Plan B
@@ -908,7 +907,7 @@ http://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="kinosat" tvg-logo="https://i.imgur.com/7KsNvBz.png",Киноман
 http://178.219.160.169/61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="kinomiks" tvg-logo="https://i.imgur.com/D4q2XUT.png",Киномикс
-http://80.245.95.243:8888/play/a012/index.m3u8
+http://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png",Киноужас
 http://178.217.72.66:8080/kinoujas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="kinoxit" tvg-logo="https://i.imgur.com/Ge8vkQM.png",Кинохит
@@ -1038,7 +1037,7 @@ http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="psixologia-21" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/GsfedKS.png",Психология
 http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/fR3abSD.png",Тайны Галактики
-http://80.245.95.243:8888/play/a02n/index.m3u8
+http://vod.splay.uz/live_splay/original/TayniGalaktiki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tri-angela" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/4fhBbam.png",Три Ангела
 http://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
