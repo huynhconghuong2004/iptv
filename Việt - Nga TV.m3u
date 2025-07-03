@@ -179,15 +179,15 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" group-logo="https://i.postimg.cc/906sYgn9/VSTV.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE
-http://mail.glevn.com:56321/udp/225.1.1.5:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
-http://mail.glevn.com:56321/udp/225.1.1.6:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT 1
-http://mail.glevn.com:56321/udp/225.1.1.73:30120
-#EXTINF:0 tvg-id="ksport2hd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT 2
-http://mail.glevn.com:56321/udp/225.1.1.77:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
+#EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT 2
+http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
 #EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS
-http://mail.glevn.com:56321/udp/225.1.1.76:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH THIẾT YẾU" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV - TH AN NINH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -388,9 +388,9 @@ http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少儿
 https://cdn.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/vFVxJx4.png",CINEMA WORLD HD
-http://mail.glevn.com:56321/udp/225.1.1.142:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.3.64:11668
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX HD
-http://mail.glevn.com:56321/udp/225.1.2.86:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="cnbc" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/96cqIYx.png",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -430,8 +430,8 @@ https://cdn.skygo.mn/live/disk1/ScienceSoutheast/HLSv3-FTA/ScienceSoutheast.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/zE5oU1T.png",DREAMWORKS HD
-http://mail.glevn.com:56321/udp/225.1.4.39:30120
-#EXTINF:-1 tvg-id="dmax" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX HD
+http://luizkun.duckdns.org:63213/rtp/232.84.3.59:11698
+#EXTINF:-1 tvg-id="dmax-tr" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="ducktv" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV HD
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
