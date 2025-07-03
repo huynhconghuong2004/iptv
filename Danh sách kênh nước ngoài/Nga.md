@@ -6,10 +6,10 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
-|  1 |   Первый канал  | [>](http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
+|  1 | Первый канал Ⓢ | [>](http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |      Россия 1      | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
-|  4 |       НТВ Ⓢ        | [>](http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
+|  4 |       НТВ Ⓢ        | [>](http://vod.splay.uz/live_splay/original/NTV_MIR/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал    | [>](http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
