@@ -572,7 +572,9 @@ http://103.120.172.74:5000
 http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/IlufzR5.png",STAR JALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
-#EXTINF:-1 tvg-id="436999" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/xWxNy3L.png",STAR PLUS HD
+#EXTINF:-1 tvg-id="StarPlus.in" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/xWxNy3L.png",STAR PLUS
+http://38.96.178.201/live/StarPlus/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/xWxNy3L.png",STAR PLUS HD
 http://103.120.172.74:5200
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/ZT0u7AK.png",STAR PRAVAH
 http://103.120.172.74:1060
