@@ -524,10 +524,14 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/Kh4MWaY.png",OUTDOOR CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="412170" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/AkdfpVr.png",SONY ENTERTAINMENT TELEVISION
+http://38.96.178.201/live/SONY/index.m3u8
 #EXTINF:-1 tvg-id="412170" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/AkdfpVr.png",SONY ENTERTAINMENT TELEVISION HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/zXK5bLFx/Sony-Aath-new.png",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/zXK5bLFx/Sony-Aath-new.png",SONY AATH HD
+http://38.96.178.201/live/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pC8JZ2J/RnzI34c.png" group-title="KÊNH ĐẶC SẮC",SONY BBC EARTH HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.postimg.cc/JzRnRcCN/Sony-Marathi.png",SONY MARATHI HD
@@ -566,6 +570,8 @@ http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 http://103.120.172.74:5000
 #EXTINF:-1 tvg-id="437045" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/xC460sj.png",STAR GOLD
 http://38.96.178.201/live/StarGold/index.m3u8
+#EXTINF:-1 tvg-name="STAR JALSHA" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/IlufzR5.png",STAR JALSHA
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 tvg-id="436999" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/xWxNy3L.png",STAR PLUS HD
 http://103.120.172.74:5200
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/ZT0u7AK.png",STAR PRAVAH
