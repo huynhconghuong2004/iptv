@@ -54,13 +54,13 @@ a) Đối với hệ điều hành Android
 - [Hướng dẫn việc tiếp phát chương trình OPT1 HD của nhà mạng VNPT](https://github.com/huynhconghuong2004/iptv/raw/refs/heads/main/H%C6%B0%C6%A1%CC%81ng%20d%C3%A2%CC%83n%20vi%C3%AA%CC%A3c%20ti%C3%AA%CC%81p%20pha%CC%81t%20ch%C6%B0%C6%A1ng%20tri%CC%80nh%20OPT1%20HD%20cu%CC%89a%20nha%CC%80%20ma%CC%A3ng%20VNPT.docx)
 
 # G. Liên hệ
+### Cơ sở 1
+Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, Phường Từ Liêm, Hà Nội 
+### Tiếp nhận thông tin
+Số điện thoại: 0353356981<br />
+Email: hoanghuymanh85@gmail.com<br />
 ### Cơ sở 2
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
 ### Tiếp nhận thông tin
 Số điện thoại: 0385876701<br />
 Email: teohdtv@mail.ru<br />
-### Nhà ở Hà Nội IPTV
-Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, Phường Từ Liêm, Hà Nội (Cạnh Khu tập thể)<br />
-### Tiếp nhận thông tin
-Số điện thoại: 0353356981<br />
-Email: hoanghuymanh85@gmail.com<br />
