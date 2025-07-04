@@ -1,4 +1,4 @@
-<h1>Russia/Россия/Nga (UTC+7)</h1>
+<h1>Russia/Россия/Nga</h1>
 
 <h2>DVB-T2</h2>
 
