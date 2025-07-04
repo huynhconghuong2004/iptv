@@ -414,7 +414,7 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN SPANISH
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv-ru" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN RUSSISAN
+#EXTINF:-1 tvg-id="cctv-ru" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN РУССКИЙ
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/V8AUJP6.png",DA VINCI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -658,7 +658,7 @@ http://110.235.82.60:8001/bysid/85
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:0 tvg-id="" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/3jlwft1.png",星空卫视
 http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://i.imgur.com/nJw9ak6.png" group-title="KÊNH TỔNG HỢP",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://i.imgur.com/nJw9ak6.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",浙江卫视 - TH CHẾT GIANG
 http://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
@@ -920,8 +920,6 @@ http://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Feniks_plus_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="KÊNH PHIM TRUYỆN",ЕВРОКИНО
 http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="lubimoe-kino" tvg-logo="https://epg.iptvx.one/picons/lubimoe-kino.png",Любимое кино
-http://178.212.71.253:8000/play/50/index.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="nashe-novoe-kino" tvg-logo="https://i.imgur.com/IOxIsPj.png",Наше новое кино
 http://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM TRUYỆN" tvg-id="nst" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
@@ -1032,6 +1030,8 @@ http://178.219.160.169/30/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/95/index.m3u8
 #EXTINF:-1 tvg-id="doktor" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/VNirxxn.png",Доктор
 http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ege-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/XxJBLt4.png",ЕГЭ ТВ
+http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/jedtE5l.png",ЗДОРОВОЕ ТВ
 http://178.217.72.66:8080/Zdorovoe_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/n7zOS06.png",Загородный INT
@@ -1044,12 +1044,8 @@ http://vod.splay.uz/live_splay/original/ZooPark/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
 http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nasha-tema" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/67ZVDKW.png",Наша Тема
-http://178.212.71.253:8000/play/73/index.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/Ub3gojM.png",Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/PmD17UQ.png",Кто Есть Кто
-http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://vod.splay.uz/live_splay/original/KuxnyaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
@@ -1072,8 +1068,8 @@ http://80.245.95.243:8888/play/a02o/index.m3u8
 http://31.148.48.15/Poehali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="psixologia-21" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/GsfedKS.png",Психология
-http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/vhLQtSd.png",Ратник HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/fR3abSD.png",Тайны Галактики
 http://vod.splay.uz/live_splay/original/TayniGalaktiki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tri-angela" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/4fhBbam.png",Три Ангела
@@ -1103,8 +1099,6 @@ http://sc.id-tv.kz/31Kanal_34_35.m3u8
 http://80.245.95.243:8888/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://i.imgur.com/nobZa5l.png" group-title="KÊNH GIẢI TRÍ",Luxury
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yjETxk1.png" tvg-id="voprosy-i-otvety" group-title="KÊNH GIẢI TRÍ",Вопросы и ответы
-http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-id="kvn-tv" group-title="KÊNH GIẢI TRÍ",КВН ТВ
 http://31.148.48.15/KVN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/mmKWrWs.png",Новое телевидение
@@ -1121,6 +1115,8 @@ http://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
 http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="7kanal-kz" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/BXHtWNs.png",Седьмой канал
 http://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 tvg-id="tancuj" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/QgcMEzn.png",Танцуй!
+http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/1H3h1HL.png",Телекафе
 http://pkvc-hls.cdnvideo.ru/Telecafe/smil:Telecafe.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/thIBQIy.png",Центральное телевидение
@@ -1146,7 +1142,7 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="dumatv" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
 http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="KÊNH TỔNG HỢP" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/v0OYe1d.png",Соловьёв.Live
@@ -1155,6 +1151,8 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/eIiXRAI.png",Первый информационный
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="xabar" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
@@ -1179,8 +1177,6 @@ http://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
 http://vod.splay.uz/live_splay/original/Avto_Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="drive" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/FnuwfSC.png",Драйв
-http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
 http://162.19.205.146/10473/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 tvg-id="football-ru" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол HD
@@ -1207,8 +1203,6 @@ http://178.217.72.66:8080/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
 https://cdn.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
 #EXTINF:-1 tvg-id="match-premier" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/GQPyHYK.png",Матч! Премьер
 http://178.219.160.169/139/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="start" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/VBqVkno.png",Старт
-http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/hJK7mOW.png",Русский Экстрим
 http://178.219.160.169/140/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/hJK7mOW.png",Русский Экстрим HD
