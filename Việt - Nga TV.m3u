@@ -381,7 +381,7 @@ https://cdn.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="KÊNH ĐẶC SẮC",CGN TV
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:0 tvg-id="CCTV4美洲" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 中文国际亚洲
-http://luizkun.duckdns.org:63213/rtp/232.84.3.183:11020
+http://trn03.bozztv.com/gin-cctv4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
 https://cdn.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="CCTV13" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/hg9DBpz.png",CCTV-13 新闻
