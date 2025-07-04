@@ -661,8 +661,8 @@ http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://i.imgur.com/nJw9ak6.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",浙江卫视 - TH CHẾT GIANG
 http://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
-http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал
+http://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
@@ -695,8 +695,8 @@ https://cdn.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8
 https://cdn.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
 http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-kz" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
+http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
 https://cdn.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
