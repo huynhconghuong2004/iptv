@@ -1169,6 +1169,8 @@ http://178.217.72.66:8080/fightbox/tracks-v1a1/mono.m3u8
 http://31.148.48.15/KHL_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/pwxT0ON.png",KHL Prime
 http://tv.streams.baikal-telecom.net/KHL_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="m1global" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/QhdxNsB.png",MMA-TV.COM
+http://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/KY0ZLQXD/ufc.png",UDAR
 http://162.19.205.146/10507/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 tvg-id="viasat-sport" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/fXESG0l.png",viju+ Sport
