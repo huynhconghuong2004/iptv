@@ -661,8 +661,8 @@ http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://i.imgur.com/nJw9ak6.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",浙江卫视 - TH CHẾT GIANG
 http://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
-http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал
+http://edge4.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
@@ -674,7 +674,7 @@ https://cdn.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
 https://cdn.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr-pl2" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.postimg.cc/Px2C61MM/OTP.png",Общественное Телевидение России
