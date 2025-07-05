@@ -665,16 +665,16 @@ http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
 http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia1" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/sCvSyox.png",Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/sCvSyox.png",Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ
 http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="piaty-int" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал International
 https://cdn.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
-#EXTINF:-1 tvg-id="kultura" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
