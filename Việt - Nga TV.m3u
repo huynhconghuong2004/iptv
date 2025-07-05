@@ -363,7 +363,7 @@ https://cdn.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/i7aYwdZ.png" group-title="KÊNH ĐẶC SẮC",BBC LIFESTYLE
 https://cdn.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC NEWS
-https://i.mjh.nz/.r/bbc-news.m3u8
+https://cdn.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="369724" tvg-logo=https://i.postimg.cc/wTzhS6wv/Boom-Thailand.png" group-title="KÊNH THIẾU NHI",BOOM
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="KÊNH BOX" group-logo="https://i.postimg.cc/wvv4sKvn/BOX.png" tvg-logo="https://i.imgur.com/VS61L6n.png",BOX MOVIE 1 HD
