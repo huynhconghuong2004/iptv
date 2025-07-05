@@ -663,8 +663,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:0 tvg-id="" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.imgur.com/3jlwft1.png",星空卫视
 http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 
-#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал. Всемирная сеть
-http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал
+http://91.226.120.120/chid1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/f54OT4e.png",Россия РТР
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
