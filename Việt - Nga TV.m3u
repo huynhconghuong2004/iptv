@@ -1034,6 +1034,8 @@ http://178.212.71.253:8000/play/95/index.m3u8
 http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/XxJBLt4.png",ЕГЭ ТВ
 http://194.143.148.28:8080/RT_DOC/index.m3u8
+#EXTINF:-1 tvg-id="zal-suda" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/KON0z08.png",Зал суда
+http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/jedtE5l.png",ЗДОРОВОЕ ТВ
 http://178.217.72.66:8080/Zdorovoe_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/n7zOS06.png",Загородный INT
